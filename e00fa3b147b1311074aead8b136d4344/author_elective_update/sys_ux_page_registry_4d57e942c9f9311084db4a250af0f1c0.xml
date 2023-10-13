@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>c157e942ccf931109fb4c4afdab3c3c1</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>safety-too-too</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 20:45:43</sys_created_on>
+        <sys_id>4d57e942c9f9311084db4a250af0f1c0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety Too Too</sys_name>
+        <sys_package display_value="Safety Too" source="x_1071908_safety_0">e00fa3b147b1311074aead8b136d4344</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Too">e00fa3b147b1311074aead8b136d4344</sys_scope>
+        <sys_update_name>sys_ux_page_registry_4d57e942c9f9311084db4a250af0f1c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 20:45:43</sys_updated_on>
+        <title>Safety Too Too</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety Too">e00fa3b147b1311074aead8b136d4344</application>
+        <file_path/>
+        <instance_id>35266ebbdbb1215891232f17d49619b5</instance_id>
+        <instance_name>dev170016</instance_name>
+        <name>sys_ux_page_registry_4d57e942c9f9311084db4a250af0f1c0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>c157e942ccf931109fb4c4afdab3c3c1</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>safety-too-too</path><root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-11 20:45:43</sys_created_on><sys_id>4d57e942c9f9311084db4a250af0f1c0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Safety Too Too</sys_name><sys_package display_value="Safety Too" source="x_1071908_safety_0">e00fa3b147b1311074aead8b136d4344</sys_package><sys_policy/><sys_scope display_value="Safety Too">e00fa3b147b1311074aead8b136d4344</sys_scope><sys_update_name>sys_ux_page_registry_4d57e942c9f9311084db4a250af0f1c0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-11 20:45:43</sys_updated_on><title>Safety Too Too</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-1429315185</payload_hash>
+        <record_name>Safety Too Too</record_name>
+        <reverted_from/>
+        <source>0a944a334721311074aead8b136d43be</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-04 23:07:14</sys_created_on>
+        <sys_id>ba28a1c247f9311074aead8b136d436e</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18afcf204d00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>7a28a1c259f9311018bceb6046a2536e</update_guid>
+        <update_guid_history>7a28a1c259f9311018bceb6046a2536e:-1429315185</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 20:49:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>65144337bc824069807b3cc98dbee941</sys_id>
+        <sys_metadata>4d57e942c9f9311084db4a250af0f1c0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Safety Too Too</sys_name>
+        <sys_package display_value="Safety Too" source="x_1071908_safety_0">e00fa3b147b1311074aead8b136d4344</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety Too">e00fa3b147b1311074aead8b136d4344</sys_scope>
+        <sys_scope_delete display_value="">36a280f025f543c0a1083805716c71e4</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_4d57e942c9f9311084db4a250af0f1c0</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_4d57e942c9f9311084db4a250af0f1c0">ba28a1c247f9311074aead8b136d436e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 20:49:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

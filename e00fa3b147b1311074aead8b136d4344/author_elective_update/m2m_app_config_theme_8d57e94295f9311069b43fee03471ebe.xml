@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 20:45:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8d57e94295f9311069b43fee03471ebe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Safety Too" source="x_1071908_safety_0">e00fa3b147b1311074aead8b136d4344</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Too">e00fa3b147b1311074aead8b136d4344</sys_scope>
+        <sys_update_name>m2m_app_config_theme_8d57e94295f9311069b43fee03471ebe</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 20:45:43</sys_updated_on>
+        <theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme>
+        <ux_app_configuration display_value="">c157e942ccf931109fb4c4afdab3c3c1</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety Too">e00fa3b147b1311074aead8b136d4344</application>
+        <file_path/>
+        <instance_id>35266ebbdbb1215891232f17d49619b5</instance_id>
+        <instance_name>dev170016</instance_name>
+        <name>m2m_app_config_theme_8d57e94295f9311069b43fee03471ebe</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-11 20:45:43</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8d57e94295f9311069b43fee03471ebe</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="Safety Too" source="x_1071908_safety_0">e00fa3b147b1311074aead8b136d4344</sys_package><sys_policy/><sys_scope display_value="Safety Too">e00fa3b147b1311074aead8b136d4344</sys_scope><sys_update_name>m2m_app_config_theme_8d57e94295f9311069b43fee03471ebe</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-11 20:45:43</sys_updated_on><theme display_value="Base Agent Workspace theme">c012213bc39b10101d590cf06e40dd32</theme><ux_app_configuration display_value="">c157e942ccf931109fb4c4afdab3c3c1</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>-352130121</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>0a944a334721311074aead8b136d43be</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-10-04 23:07:14</sys_created_on>
+        <sys_id>9328e1c247f9311074aead8b136d4339</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>18afcf204d00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Theme</type>
+        <update_guid>5328e1c246f931108fc46aa53d93c139</update_guid>
+        <update_guid_history>5328e1c246f931108fc46aa53d93c139:-352130121</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">d728e1c247f9311074aead8b136d433a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 20:49:24</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>95de949e30f84d628613642796789e31</sys_id>
+        <sys_metadata>8d57e94295f9311069b43fee03471ebe</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Safety Too" source="x_1071908_safety_0">e00fa3b147b1311074aead8b136d4344</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety Too">e00fa3b147b1311074aead8b136d4344</sys_scope>
+        <sys_scope_delete display_value="">36a280f025f543c0a1083805716c71e4</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_8d57e94295f9311069b43fee03471ebe</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_8d57e94295f9311069b43fee03471ebe">9328e1c247f9311074aead8b136d4339</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 20:49:24</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

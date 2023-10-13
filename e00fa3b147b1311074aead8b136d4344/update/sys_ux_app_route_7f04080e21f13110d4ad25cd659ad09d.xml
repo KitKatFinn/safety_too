@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Safety Too Config">9f04080e47f1311074aead8b136d4333</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Landing Page</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>landing</route_type>
+        <screen_type display_value="Landing Page">b304080ef5f13110d0c8d56418cb709f</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-10-11 13:32:00</sys_created_on>
+        <sys_id>7f04080e21f13110d4ad25cd659ad09d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Landing Page</sys_name>
+        <sys_package display_value="Safety Too" source="x_1071908_safety_0">e00fa3b147b1311074aead8b136d4344</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Too">e00fa3b147b1311074aead8b136d4344</sys_scope>
+        <sys_update_name>sys_ux_app_route_7f04080e21f13110d4ad25cd659ad09d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-10-11 13:32:00</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=7f04080e21f13110d4ad25cd659ad09d"/>
+</record_update>

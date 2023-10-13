@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Report a Safety Issue Too">89333bf547b1311074aead8b136d43e7</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 12:35:34</sys_created_on>
+        <sys_id>1927bb3d47b1311074aead8b136d4323</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Report a Safety Issue Too</sys_name>
+        <sys_package display_value="Safety Too" source="x_1071908_safety_0">e00fa3b147b1311074aead8b136d4344</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety Too">e00fa3b147b1311074aead8b136d4344</sys_scope>
+        <sys_update_name>sc_cat_item_category_1927bb3d47b1311074aead8b136d4323</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 12:35:34</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Safety Too">e00fa3b147b1311074aead8b136d4344</application>
+        <file_path/>
+        <instance_id>35266ebbdbb1215891232f17d49619b5</instance_id>
+        <instance_name>dev170016</instance_name>
+        <name>sc_cat_item_category_1927bb3d47b1311074aead8b136d4323</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Report a Safety Issue Too">89333bf547b1311074aead8b136d43e7</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-11 12:35:34</sys_created_on><sys_id>1927bb3d47b1311074aead8b136d4323</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Report a Safety Issue Too</sys_name><sys_package display_value="Safety Too" source="x_1071908_safety_0">e00fa3b147b1311074aead8b136d4344</sys_package><sys_policy/><sys_scope display_value="Safety Too">e00fa3b147b1311074aead8b136d4344</sys_scope><sys_update_name>sc_cat_item_category_1927bb3d47b1311074aead8b136d4323</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-11 12:35:34</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1164708236</payload_hash>
+        <record_name>Can We Help You?.Report a Safety Issue Too</record_name>
+        <reverted_from/>
+        <source>a00fa3b147b1311074aead8b136d4361</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 12:35:34</sys_created_on>
+        <sys_id>1927bb3d47b1311074aead8b136d4327</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b1ebc3b9c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 12:35:34</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>5927bb3dd8b131108eb6373ac58ea526</update_guid>
+        <update_guid_history>5927bb3dd8b131108eb6373ac58ea526:-1164708236</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Report a Safety Issue Too">b7477f3d47b1311074aead8b136d4367</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-11 12:36:17</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>3da5de44accc4150bb74aafffbe80100</sys_id>
+        <sys_metadata>1927bb3d47b1311074aead8b136d4323</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Report a Safety Issue Too</sys_name>
+        <sys_package display_value="Safety Too" source="x_1071908_safety_0">e00fa3b147b1311074aead8b136d4344</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Safety Too">e00fa3b147b1311074aead8b136d4344</sys_scope>
+        <sys_scope_delete display_value="">36a280f025f543c0a1083805716c71e4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_1927bb3d47b1311074aead8b136d4323</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_1927bb3d47b1311074aead8b136d4323">1927bb3d47b1311074aead8b136d4327</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-11 12:36:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
